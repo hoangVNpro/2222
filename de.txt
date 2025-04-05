@@ -1,0 +1,62 @@
+12193
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 18. Mỗi câu hỏi thí sinh chỉ chọn một phương án. 
+Câu 1: Số oxi hóa của cupper (Cu) trong đơn chất là:
+A. +2.                          B. 0.                     C. +3.                          D.  -2.
+Câu 2Số oxi hóa của aluminium trong Al2O3 là
+A. 0.                          B. +3.                     C. +1.                          D. -3.
+Câu 3: Dấu hiệu để nhận biết một phản ứng oxi hoá - khử là
+A. tạo ra chất kết tủa.			B. tạo ra chất khí.
+C. có sự thay đổi màu sắc của các chất.	  D. có sự thay đổi số oxi hoá của nguyên tố.
+Câu 4:Cho phản ứng oxi hóa – khử :  2Ca + O2 → 2CaO. Nhận định nào sau đây là đúng?
+A. Ca là chất oxi hóa.		B. O2 là chất oxi hóa.	
+C. Ca là chất khử.		D. O2 vừa là chất oxi hóa vừa là chất khử.
+Câu 5:Sản xuất gang trong công nghiệp bằng cách sử dụng khí CO khử Fe2O3 ở nhiệt độ cao theo phản ứng sau:     Fe2O3 + 3CO □(→┴t^o  )  2Fe + 3CO2. Trong phản ứng trên chất đóng vai trò chất khử là
+A. Fe2O3.                         B. CO.                      C. Fe.                              D. CO2.
+Câu 6:Trong phản ứng nào sau đây HCl đóng vai trò là chất oxi hoá?
+A. 2HCl + FeO → FeCl2 + H2O.              		               B. 2HCl + Na2CO3 → 2NaCl + CO2 + H2O.
+C. 16HCl + 2KMnO4 → 2KCl + 2MnCl2 + 5Cl2 + 8H2O.      D. 2HCl + Mg → MgCl2 + H2.
+Câu 7:Cho nước Cl2 vào dung dịch NaBr xảy ra phản ứng hóa học:  Cl2 + 2NaBr   2NaCl + Br2.
+Trong phản ứng hóa học trên, xảy ra quá trình oxi hóa chất nào?
+A. NaCl.		B. Br2.	C. Cl2.	D. NaBr.
+Câu 8:Trong phản ứng hoá học: 2Al + 6HCl → 2AlCl3 + 3H2, mỗi nguyên tử Al đã
+A. nhận 3 electron.   B. nhường 3 electron.   C. nhận 2 electron.   D. nhường 2 electron
+Câu 9:Xét phản ứng: MnO2 + 4HCl →MnCl2 + Cl2 + H2O.     Phát biểu nào sau đây không đúng?
+A. HCl đóng vai trò chất khử trong phản ứng.
+B. Tất cả 4 phân tử HCl đều đóng vai trò chất khử trong phản ứng.
+C. MnO2 đóng vai trò chất oxi hóa trong phản ứng.
+D. Nguyên tử Mn có số oxi hóa +4 trong hợp chất MnO2.
+Câu 10:Cho phản ứng: Mg + H2SO4 → MgSO4 + H2S + H2O. Khi hệ số cân bằng phản ứng là nguyên và tối giản thì số phân tử H2O tạo thành là:
+A. 3.                                B. 10.                       C. 5.                                D. 4.
+Câu 11: Trong quá trình luyện gang từ quặng chứa Fe2O3, ban đầu không khí nóng được nén vào lò cao, đốt cháy hoàn toàn than cốc kèm theo tỏa nhiệt mạnh:  C + O2  →   CO2 (1)
+Khí CO2 đi lên phía trên, gặp các lớp than cốc và bị khử thành CO:     CO2 + C →  2CO (2)
+Tiếp đó, khí CO khử Fe2O3 theo 3 phản ứng: 3Fe2O3 + CO  →    2Fe3O4 + CO2  (3)
+Fe3O4 + CO  →    3FeO + CO2 (4)
+FeO + CO  →    Fe + CO2  (5)
+Số phương trình thuộc oxi hoá khử là:
+A. 3.                                B. 2.                       C. 5.                                D. 4.
+Câu 12: Phản ứng tỏa nhiệt là gì?	
+	A. Là phản ứng giải phóng năng lượng dạng nhiệt. 
+	B. Là phản ứng hấp thụ năng lượng dạng nhiệt.
+	C. Là phản ứng hấp thụ ion dưới dạng nhiệt.
+	D. Là phản giải phóng ion dưới dạng nhiệt.
+Câu 13: Các quá trình sau:    (1) Nước lỏng hóa rắn.   (2) Quá trình chạy của con người.  (3) Khí CH4 đốt ở trong lò.      (4) Sulfuric acid đặc khi thêm vào nước làm cho nước nóng lên. Số quá trình tỏa nhiệt là
+A. 2.                                B. 3.                   C. 4.                                1. 5
+Câu 14:Cho phương trình nhiệt hóa học của phản ứng:  H2(g) + F2(g) → 2HF(g)      = -546,00 kJ
+Phản ứng trên là phản ứng
+A. thu nhiệt.	               C. không có sự thay đổi năng lượng.       
+B. tỏa nhiệt.	                D. có sự hấp thụ nhiệt lượng từ môi trường xung quanh.
+Câu 15:Cho phản ứng: 2H2(g) + O2(g) →2H2O(l). Ở điều kiện chuẩn, cứ 2 mol H2 phản ứng hết 1 mol O2  sẽ  giải phóng lượng nhiệt là 571,68 kJ. Enthalpy tạo thành chuẩn của H2O(l) là
+A. + 285,84 kJ mol-1.      		B. - 285,84 kJ mol-1.      
+C. +571,68 kJ mol-1.       		D. –571,68 kJ mol-1.
+
+Câu 16:Cho phản ứng sau:  SO2(g) + 1/2O2(g)→ SO3(l)  ΔrH0298 = −144,2kJ
+Biết nhiệt tạo thành chuẩn của SO2 là -296,8 kJ/mol. Nhiệt tạo thành chuẩn của SO3 là
+A. + 441 kJ/mol.              B. -441 kJ/mol.                     C. + 414 kJ/mol.              D. -414 kJ/mol.
+Câu 17:Phương trình nhiệt hóa học:      3H2(g) + N2(g)   2NH3(g)      = -91,80kJ
+Lượng nhiệt tỏa ra khi dùng 9 g H2(g) để tạo thành NH3(g) là (Biết H=1 ; N=14):
+A. -275,40 kJ.	                    B. -137,70 kJ.	 C. -45,90 kJ.	             D. -183,60 kJ.
+Câu 18:Hydrogen phản ứng với chlorine để tạo thành hydrogen chloride theo phương trình
+H2(g) + Cl2(g) → 2HCl(g). Biến thiên enthalpy chuẩn của phản ứng là
+(Biết năng lượng liên kết E(H-H) = 436 kJ/mol, E(Cl-Cl) = 243 kJ/mol, E(H-Cl) = 432kJ/mol).
+A. + 185kJ/mol.		B. −185 kJ/mol.	C. + 92,5kJ/mol.		D. −92,5 kJ/mol. 
+ 
